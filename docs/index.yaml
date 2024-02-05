@@ -16,6 +16,6 @@ entries:
     digest: 32b32184e6c55ea66de7899e1dcda5c8e79c25de9bb28c978975a9c911195838
     name: maxscale
     urls:
-    - https://github.com/tuhoanganh/helm-charts/maxscale-1.0.0.tgz
+    - https://github.com/tuhoanganh/helm-charts/blob/main/docs/maxscale-1.0.0.tgz
     version: 1.0.0
 generated: "2024-02-05T14:38:58.802452+07:00"
