@@ -5,7 +5,7 @@ entries:
       category: Maxscale
     apiVersion: v2
     appVersion: v1.0.0
-    created: "2024-02-05T15:35:37.454047+07:00"
+    created: "2024-02-05T15:38:33.257343+07:00"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -16,6 +16,6 @@ entries:
     digest: cff2036a0a7d750204bc93248348cfbc6b81dab4e00dd8583fc88d45ac95da2d
     name: maxscale
     urls:
-    - https://github.com/tuhoanganh/helm-charts/blob/main/docs/maxscale-1.0.0.tgz
+    - https://tuhoanganh.github.io/helm-charts/maxscale-1.0.0.tgz
     version: 1.0.0
-generated: "2024-02-05T15:35:37.451218+07:00"
+generated: "2024-02-05T15:38:33.253945+07:00"
