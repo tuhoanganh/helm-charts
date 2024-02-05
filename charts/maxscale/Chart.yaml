@@ -1,0 +1,13 @@
+annotations:
+  category: Maxscale
+apiVersion: v2
+appVersion: v1.0.0
+dependencies:
+- name: common
+  repository: oci://registry-1.docker.io/bitnamicharts
+  tags:
+  - bitnami-common
+  version: 1.x.x
+description: SVTECH Maxscale
+name: maxscale
+version: 1.0.0

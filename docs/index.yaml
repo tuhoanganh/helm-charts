@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  maxscale:
+  - annotations:
+      category: Maxscale
+    apiVersion: v2
+    appVersion: v1.0.0
+    created: "2024-02-05T14:38:58.805088+07:00"
+    dependencies:
+    - name: common
+      repository: oci://registry-1.docker.io/bitnamicharts
+      tags:
+      - bitnami-common
+      version: 1.x.x
+    description: SVTECH Maxscale
+    digest: 32b32184e6c55ea66de7899e1dcda5c8e79c25de9bb28c978975a9c911195838
+    name: maxscale
+    urls:
+    - https://github.com/tuhoanganh/helm-charts/maxscale-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-05T14:38:58.802452+07:00"
