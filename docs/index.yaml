@@ -1,31 +1,25 @@
 apiVersion: v1
 entries:
   maxscale:
-  - annotations:
-      category: Maxscale
-    apiVersion: v2
-    appVersion: v1.0.0
-    created: "2024-04-09T15:42:22.377154+07:00"
-    dependencies:
-    - name: common
-      repository: oci://registry-1.docker.io/bitnamicharts
-      tags:
-      - bitnami-common
-      version: 1.x.x
-    description: SVTECH Maxscale
-    digest: 415551698a29f3074eadbfd9dfcbb8db0cbf28514229eebc2366958bdc8e148c
-    name: maxscale
-    urls:
-    - https://tuhoanganh.github.io/helm-charts/maxscale-1.0.0.tgz
-    version: 1.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-09T15:42:22.376123+07:00"
+    created: "2024-04-09T15:44:10.112761+07:00"
     description: A Helm chart for Kubernetes
-    digest: edf792dc1eae677f9b9f31281b13fadc9fa7bc0fbd9c0d304a6d8a38e64e7cf6
+    digest: f98e59854f6a05606cfb890e605a33dab857bdf43d9e9caf59c26757d5d26da3
     name: maxscale
     type: application
     urls:
     - https://tuhoanganh.github.io/helm-charts/maxscale-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-09T15:42:22.374258+07:00"
+  testing:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-09T15:44:10.113247+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 0c01dc66152922e2e4aa9f3ae25f8a2db957627d9fe3c75c76e7e53644e1309e
+    name: testing
+    type: application
+    urls:
+    - https://tuhoanganh.github.io/helm-charts/testing-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-09T15:44:10.111096+07:00"
